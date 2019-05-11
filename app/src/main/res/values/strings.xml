@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wonacita</string>
+    <string name="login">LOGIN</string>
+    <string name="logout">LOGOUT</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="title_activity_signin">Signin</string>
+</resources>
